@@ -1,30 +1,24 @@
 {
-    "version":  "0.7.0",
-    "versionCode":  4,
-    "url":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/tag/v0.7.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/download/v0.7.0/ShoppingList-0.7.0.apk",
-    "size":  35331088,
+    "version":  "0.7.1",
+    "versionCode":  5,
+    "url":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/tag/v0.7.1",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/download/v0.7.1/ShoppingList-0.7.1.apk",
+    "size":  35333772,
     "notes":  {
                   "ru":  [
-                             "Цены: цена у товара, итоги по списку, валюта (тенге, рубль или своя)",
-                             "Поделиться списком: текстом, файлом для приложения, .txt и PDF; импорт и резервная копия",
-                             "Добавление сразу нескольких товаров: «молоко, хлеб, 2 кг сыра»; голосовой ввод",
-                             "Блюда: плов, бешбармак, манты и другие, набор продуктов можно изменить",
-                             "Каталог товаров и подсказки, «Ко всему» с ярлыком, пример списка при первом запуске"
+                             "«Сегодня» и «Календарь»: каждый список обведён рамкой цвета списка",
+                             "Окно «Количество»: «Своё число» в одном ряду с кнопками, значок калькулятора",
+                             "Кнопка «Блюда» с подписью теперь над строкой добавления товара"
                          ],
                   "kk":  [
-                             "Бағалар: тауар бағасы, тізім қорытындысы, валюта (теңге, рубль немесе өзіңіздікі)",
-                             "Тізіммен бөлісу: мәтінмен, қолданба файлымен, .txt және PDF; импорт және сақтық көшірме",
-                             "Бірнеше тауарды бірден қосу: «сүт, нан, 2 кг ірімшік»; дауыспен енгізу",
-                             "Тағамдар: палау, бешбармақ, мәнті және т.б., өнімдер жиынын өзгертуге болады",
-                             "Тауар каталогы мен кеңестер, белгішесі бар «Бәріне», алғашқы іске қосуда мысал тізім"
+                             "«Бүгін» және «Күнтізбе»: әр тізім тізім түсті жақтаумен көрсетілді",
+                             "«Саны» терезесі: «Басқа сан» түймелермен бір қатарда, калькулятор белгішесі",
+                             "«Тағамдар» түймесі енді жазуымен тауар қосу жолының үстінде"
                          ],
                   "en":  [
-                             "Prices: item price, list totals, currency (tenge, ruble or your own)",
-                             "Share a list: as text, an app file, .txt and PDF; import and backup",
-                             "Add several items at once: “milk, bread, 2 kg cheese”; voice input",
-                             "Dishes: plov, beshbarmak, manti and more, the set of products is editable",
-                             "Product catalog and suggestions, “Everything” with the icon, a sample list on first launch"
+                             "Today and Calendar: every list is outlined in the list\u0027s color",
+                             "Quantity window: “Custom number” sits in the same row as the buttons, calculator icon",
+                             "The Dishes button with a label is now above the add-item row"
                          ]
               }
 }

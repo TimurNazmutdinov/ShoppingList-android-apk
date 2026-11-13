@@ -1,18 +1,18 @@
 {
-    "version":  "0.7.6",
-    "versionCode":  10,
-    "url":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/tag/v0.7.6",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/download/v0.7.6/ShoppingList-0.7.6.apk",
-    "size":  35354540,
+    "version":  "0.8.0",
+    "versionCode":  11,
+    "url":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/tag/v0.8.0",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/ShoppingList-android-apk/releases/download/v0.8.0/ShoppingList-0.8.0.apk",
+    "size":  35393788,
     "notes":  {
                   "ru":  [
-                             "Вернули цветовые профили, светлые стали мягче; заставка и значок всегда фирменные"
+                             "Название под значком по языку телефона; подсказки ищут и на других языках, и русскими буквами вместо казахских"
                          ],
                   "kk":  [
-                             "Түс профильдері қайтарылды, ашық профильдер жұмсарақ болды; қарсы алу экраны мен белгіше әрқашан фирмалық"
+                             "Белгіше астындағы атау телефон тіліне байланысты; ұсыныстар басқа тілдерде де, қазақ әріптерінің орнына орыс әріптерімен де іздейді"
                          ],
                   "en":  [
-                             "Color profiles are back, light ones are softer; splash and icon are always the brand ones"
+                             "App name under the icon follows the phone language; suggestions also search other languages and accept Russian letters for Kazakh ones"
                          ]
               }
 }
